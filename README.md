@@ -1,7 +1,7 @@
 # 📚 Book Finder App
 
 A simple and responsive **Book Finder** web application built using **React.js** that allows users to search for books by title, author, or keyword.  
-It fetches real-time book data from the **Google Books API** and displays useful information such as the book title, author(s), publisher, and cover image.
+It fetches real-time book data from the **Openlibrary Books API** and displays useful information such as the book title, author(s), publisher, and cover image.
 
 ---
 
