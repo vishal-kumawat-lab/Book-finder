@@ -22,6 +22,6 @@ It fetches real-time book data from the **Openlibrary Books API** and displays u
 |-----------|-------------|
 | **Framework** | [React.js](https://reactjs.org/) |
 | **Language** | JavaScript |
-| **API Used** | [Openlibrary book API](https://openlibrary.org/search.json?title={bookTitle}) |
+| **API Used** | [Openlibrary book API](https://openlibrary.org) |
 | **Styling** | Inline CSS  |
 | **Package Manager** | npm |
